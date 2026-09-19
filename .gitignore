@@ -1,8 +1,8 @@
 # Data (not committed)
 menu-costs-snap/data/*
 !menu-costs-snap/data/.gitkeep
-snap-pricing-panel/data/*
-!snap-pricing-panel/data/.gitkeep
+online-delivery-disparities/data/*
+!online-delivery-disparities/data/.gitkeep
 
 # Secrets / credentials
 .env
