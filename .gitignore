@@ -1,0 +1,33 @@
+# Data (not committed)
+menu-costs-snap/data/*
+!menu-costs-snap/data/.gitkeep
+snap-pricing-panel/data/*
+!snap-pricing-panel/data/.gitkeep
+
+# Secrets / credentials
+.env
+*.env
+brightdata_credentials*
+**/credentials.json
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.bbl
+*.blg
+*.synctex.gz
+*.fdb_latexmk
+*.fls
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+venv/
+.venv/
+
+# OS / editor
+.DS_Store
+.vscode/
