@@ -15,11 +15,3 @@ online-delivery-disparities/  "Inside the Delivery Zone" — price, availability
   docs/
 ```
 
-## Shared data facts
-
-- Daily price panel: Amazon Fresh, Walmart, Target (~44 matched product variants)
-- 70 ZIPs across 7 states (FL, OH, MA, NC, WA, CA, NJ)
-- Dewey/SafeGraph foot traffic as demand proxy
-- NielsenIQ RMS scanner elasticities (supplementary)
-
-See each paper's own `docs/README.md` for paper-specific details.
