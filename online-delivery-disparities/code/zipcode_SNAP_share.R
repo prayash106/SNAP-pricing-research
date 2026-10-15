@@ -38,7 +38,7 @@ zcta_snap <- get_acs(
 library(httr)
 library(jsonlite)
 
-hud_key <- "eyJ0eXAiOiJKV1QiLCJhbGciOiJSUzI1NiJ9.eyJhdWQiOiI2IiwianRpIjoiZTExZGUxOGUwMWZmODdhMjQyNGE0MmYzZDYxMjBlNDE0NzI2MWE4NTQxMmVjZjg1NzFkMjlkNjhmOWMzZGU1NmE5MjdhYWM3MjU2MzFmNzgiLCJpYXQiOjE3NzgwODM2NjguNzk1NTQ1LCJuYmYiOjE3NzgwODM2NjguNzk1NTQ3LCJleHAiOjIwOTM3MDI4NjguNzkxMDM4LCJzdWIiOiIxMjc3ODIiLCJzY29wZXMiOltdfQ.edzxFzEXEBeQbGOOOqE2qBAu82314unLpRegMMfeP4YREHI22IGEOXrkmKOTuNRGNSb46Fr42l2lsc-dBemrlA"
+hud_key <- "########################"
 
 # Pull ZIP-to-county crosswalk for all states
 url <- "https://www.huduser.gov/hudapi/public/usps"
